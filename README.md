@@ -1,3 +1,5 @@
+![BG](https://github.com/user-attachments/assets/9796febf-c241-45c2-81bb-04f38a097929)
+
 I am a dedicated and ambitious Master's in Computer Science student at the Illinois Institute of Technology, Chicago, with a strong passion for software development. My expertise spans Python, Java, C++, HTML, CSS, JavaScript, and React, Node, Express providing me with a solid foundation to tackle complex problems and drive innovation in the tech industry. 
 
 I am actively seeking opportunities for networking, collaboration, and professional growth that align with my skills and interests.
@@ -24,7 +26,7 @@ I am actively seeking opportunities for networking, collaboration, and professio
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nishant-khandhar/">
-    <img src="https://skillicons.dev/icons?i=js,angular,react,flutter,nodejs,express,java,python,anaconda,cpp,jupyter,dart,php,html,md,css,mysql,mongodb,sqlite,git,vscode,postman,firebase,androidstudio,atom,pycharm,idea,django,flask,bootstrap,latex, figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,angular,react,flutter,dart,nodejs,express,java,python,anaconda,cpp,php,html,md,css,mysql,mongodb,sqlite,git,github,vscode,postman,fastapi,firebase,androidstudio,atom,eclipse,pycharm,idea,django,flask,sklearn,bootstrap,latex,vercel,figma&theme=light" />
   </a>
 </div>
 
