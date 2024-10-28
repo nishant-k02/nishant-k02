@@ -12,12 +12,12 @@ I am actively seeking opportunities for networking, collaboration, and professio
 
 <div align="center">
 
-| Organization                                | Projects                                         | Tech Stack                                                                                      
-| ------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------          
-| **Illinois Institute of Technology**        | Health AI Assistant                              | FastAPI, Uvicorn, AutoGen, OpenAI, Flutter, Dart, REST APIs, chroma, Python |
+| Organization                               | Projects                                         | Tech Stack                                                                                        |
+| ------------------------------------------- | ------------------------------------------------ |  ----------------------------------------------------------------------------------------------- |          
+| **Illinois Institute of Technology**        | Health AI Assistant                              | FastAPI, Uvicorn, AutoGen, OpenAI, Flutter, Dart, REST APIs, chroma, Python                                                                                                                                                    |
 | **Visanka Technologies**                    | Job Portal App                                   | Java, MySQL, XMAPP, Firebase, PHP, Android Studio, Github      |                                
 | **Illinois Institute of Technology**        | Smart Homes                                      | HTML, CSS, JS, JSP, Servlet, MySQL, Mongodb, Tomcat, java, AJAX|                                
-| **NBN Sinhgad School of Engineering**       | Car Damage Detection                             | Python, Pandas, OpenCV, Keras, TensorFlow, Jupyter Notebook, HTML, CSS, JS |                     
+| **NBN Sinhgad School of Engineering**       | Car Damage Detection                             | Python, Pandas, OpenCV, Keras, TensorFlow, Jupyter Notebook, HTML, CSS, JS                                                                                                                                                     |                     
 | **NBN Sinhgad School of Engineering**       | Covid Stats. Analyser                            | Python, Microsoft PowerBI, API, Pycharm                        |                                                       
 | **Personal Project**                        | Online Code Editor                               | React, Bootstrap, CodeMirror, JavaScript, HTML, CSS            |                                           
 | **Personal Project**                        | Android Weather App                              |  Java, Android Studio, Weather API                             |                                                        
