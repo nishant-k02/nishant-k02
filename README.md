@@ -21,7 +21,7 @@ I am actively seeking opportunities for networking, collaboration, and professio
 | **NBN Sinhgad School of Engineering**       | Covid Stats. Analyser                            | Python, Microsoft PowerBI, API, Pycharm                        |                                                       
 | **Personal Project**                        | Online Code Editor                               | React, Bootstrap, CodeMirror, JavaScript, HTML, CSS            |                                           
 | **Personal Project**                        | Android Weather App                              |  Java, Android Studio, Weather API                             |                               
-             |                                                        
+                                                                     
 
 </div>
 <h3 align="left">🛠️ Skills:</h3>
