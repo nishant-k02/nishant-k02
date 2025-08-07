@@ -13,8 +13,12 @@ I am actively seeking opportunities for networking, collaboration, and professio
 <div align="center">
 
 | Organization                               | Projects                                         | Tech Stack                                                                     |
-| ------------------------------------------- | ------------------------------------------------ |  ---------------------------------------------------------------------------- |          
+| ------------------------------------------- | ------------------------------------------------ |  ---------------------------------------------------------------------------- |
+| **Find me LLC**                             | Social Media Application                         | Next.js, React.js, TypeScript, Tailwind CSS, MongoDB, JWT, bcrypt.js, Microsoft Azure, System Design, CosmoDB, Jest                                                                                                                                                    |
+| **Personal Project**        | ShopHub – AI-Powered E-commerce Platform                         | Next.js, React.js, TypeScript, Tailwind CSS, MongoDB, JWT, bcrypt.js, LangChain, OpenAI, LangGraph                                                                                                                                                    |
+| **Illinois Institute of Technology**        | Sportify                                         | React.js, Node.js, Express.js, MongoDB, OpenAI, JSON, JWT                                                                                                                                                    |
 | **Illinois Institute of Technology**        | Health AI Assistant                              | FastAPI, Uvicorn, AutoGen, OpenAI, Flutter, Dart, REST APIs, chroma, Python                                                                                                                                                    |
+| **Scarlet Hacks 2025**                      | SunWise                                          | React.js, Flask, Machine Learning, Google Maps API, REST APIs                                                                                                                                                    |
 | **Visanka Technologies**                    | Job Portal App                                   | Java, MySQL, XMAPP, Firebase, PHP, Android Studio, Github      |                                
 | **Illinois Institute of Technology**        | Smart Homes                                      | HTML, CSS, JS, JSP, Servlet, MySQL, Mongodb, Tomcat, java, AJAX|                                
 | **NBN Sinhgad School of Engineering**       | Car Damage Detection                             | Python, Pandas, OpenCV, Keras, TensorFlow, Jupyter Notebook, HTML, CSS, JS                                                                                                                                                     |                     
@@ -28,7 +32,7 @@ I am actively seeking opportunities for networking, collaboration, and professio
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nishant-khandhar/">
-    <img src="https://skillicons.dev/icons?i=js,angular,react,flutter,dart,nodejs,express,java,python,anaconda,cpp,php,html,md,css,mysql,mongodb,sqlite,git,github,vscode,postman,fastapi,firebase,androidstudio,atom,eclipse,pycharm,idea,django,flask,sklearn,bootstrap,latex,vercel,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,angular,react,flutter,dart,nodejs,nextjs,express,java,python,anaconda,cpp,php,html,md,css,mysql,mongodb,sqlite,git,github,vscode,postman,fastapi,firebase,aws,azure,docker,androidstudio,atom,eclipse,pycharm,idea,django,flask,sklearn,bootstrap,latex,vercel,figma&theme=light" />
   </a>
 </div>
 
