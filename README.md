@@ -1,8 +1,8 @@
 ![BG](https://github.com/user-attachments/assets/9796febf-c241-45c2-81bb-04f38a097929)
 
-I am a dedicated and ambitious Master's in Computer Science student at the Illinois Institute of Technology, Chicago, with a strong passion for software development. My expertise spans Python, Java, C++, HTML, CSS, JavaScript, and React, Node, Express providing me with a solid foundation to tackle complex problems and drive innovation in the tech industry. 
+As a passionate and adaptive software developer, I specialize in full-stack application design, AI-driven systems, and scalable cloud architectures. With hands-on experience across modern technologies such as React, Next.js, Node.js, Flask, and MongoDB, I focus on building solutions that merge technical precision with user-centric design. My work spans web, mobile, and intelligent automation systems leveraging tools like LangChain, OpenAI, and Azure to create products that enhance usability, reliability, and decision intelligence.
 
-I am actively seeking opportunities for networking, collaboration, and professional growth that align with my skills and interests.
+Having contributed to high-impact projects like an AI-powered healthcare assistant and an e-commerce platform with real-time chatbot integration, I enjoy translating complex ideas into elegant, deployable solutions. My recent work strengthened my skills in backend architecture, REST API optimization, and cross-platform development. Currently pursuing my Master’s in Computer Science at the Illinois Institute of Technology (GPA 3.83), I aim to continue advancing in software innovation—crafting intelligent, efficient, and secure systems that empower users and businesses alike.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishant-k02&label=Profile%20Impressions&color=brightgreen&style=flat" alt="nishantkhandhar" />
