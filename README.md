@@ -2,7 +2,7 @@
 
 As a passionate and adaptive software developer, I specialize in full-stack application design, AI-driven systems, and scalable cloud architectures. With hands-on experience across modern technologies such as React, Next.js, Node.js, Flask, and MongoDB, I focus on building solutions that merge technical precision with user-centric design. My work spans web, mobile, and intelligent automation systems leveraging tools like LangChain, OpenAI, and Azure to create products that enhance usability, reliability, and decision intelligence.
 
-Having contributed to high-impact projects like an AI-powered healthcare assistant and an e-commerce platform with real-time chatbot integration, I enjoy translating complex ideas into elegant, deployable solutions. My recent work strengthened my skills in backend architecture, REST API optimization, and cross-platform development. Currently pursuing my Master’s in Computer Science at the Illinois Institute of Technology (GPA 3.83), I aim to continue advancing in software innovation—crafting intelligent, efficient, and secure systems that empower users and businesses alike.
+Having contributed to high-impact projects like an AI-powered healthcare assistant and an e-commerce platform with real-time chatbot integration, I enjoy translating complex ideas into elegant, deployable solutions. My recent work strengthened my skills in backend architecture, REST API optimization, and cross-platform development. Currently pursuing my Master’s in Computer Science at the Illinois Institute of Technology (GPA 3.8), I aim to continue advancing in software innovation—crafting intelligent, efficient, and secure systems that empower users and businesses alike.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishant-k02&label=Profile%20Impressions&color=brightgreen&style=flat" alt="nishantkhandhar" />
@@ -34,13 +34,4 @@ Having contributed to high-impact projects like an AI-powered healthcare assista
   <a href="https://www.linkedin.com/in/nishant-khandhar/">
     <img src="https://skillicons.dev/icons?i=ts,js,angular,react,flutter,dart,nodejs,nextjs,express,java,python,anaconda,cpp,php,html,md,css,mysql,mongodb,sqlite,git,github,vscode,postman,fastapi,firebase,aws,azure,docker,androidstudio,atom,eclipse,pycharm,idea,django,flask,sklearn,bootstrap,latex,vercel,figma&theme=light" />
   </a>
-</div>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<div align="center">
-
-|                                                                                   Main Account                                                                                   |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Main Account](https://github-readme-streak-stats.herokuapp.com/?user=nishant-k02&theme=whatsapp-dark2&locale=en&border_radius=8&exclude_days=sat,sun&excludeDaysLabel=grey)    |
 </div>
